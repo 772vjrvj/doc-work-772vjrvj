@@ -28,3 +28,6 @@ Ctrl + B 설정 (Intellij 와 같음)
 ----------------------------------
 Ctrl + p	        빠른 열기, 파일로 이동	workbench.action.quickOpen
 Alt + Shift + A   블럭 주석 처리
+
+
+Ctrl + Shift + U 대문자 소문자
